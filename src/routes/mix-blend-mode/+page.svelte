@@ -1,6 +1,6 @@
 <script lang="ts">
-	import InputRgba from '../../components/inputRgba.svelte';
-	import InputSlider from '../../components/inputSlider.svelte';
+	import InputRgba from '../../components/mix-blend-mode/inputRgba.svelte';
+	import InputSlider from '../../components/mix-blend-mode/inputSlider.svelte';
 
 	export let imgSrc: string = 'Ak81Vc-kCf4';
 	let text = {

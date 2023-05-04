@@ -1,6 +1,6 @@
 <script lang="ts">
-	import InputSlider from '../components/inputSlider.svelte';
-	import MixBlendMode from '../components/mixBlendMode.svelte';
+	import InputSlider from './inputSlider.svelte';
+	import MixBlendMode from './mixBlendMode.svelte';
 
 	export let red = 0;
 	export let green = 0;
