@@ -2,7 +2,7 @@
 	import BasicLayout from '../components/layout/basicLayout.svelte';
 </script>
 
-<BasicLayout>
+<BasicLayout title="mana's tools">
 	<div class="root">
 		<ul>
 			<li>

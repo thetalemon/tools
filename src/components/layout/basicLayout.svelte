@@ -1,3 +1,20 @@
+<script lang="ts">
+	export let title: string;
+</script>
+
+<svelte:head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width" />
+	<link rel="icon" type="image/svg+xml" href="/mylogo.ico" />
+	<meta name="description" content="=まなさすが作ったツール集" />
+	<meta property="og:site_name" content="manasandbox" />
+	<meta property="og:title" content={title} />
+	<meta property="og:url" content="https://tools.manasas.dev" />
+	<meta property="og:description" content="まなさすが作ったツール集" />
+	<meta property="og:image" content="https://tools.manasas.dev/aza166.png" />
+	<title>{title}</title>
+</svelte:head>
+
 <body>
 	<header>
 		<h1><a href="/">Mana's tools</a></h1>

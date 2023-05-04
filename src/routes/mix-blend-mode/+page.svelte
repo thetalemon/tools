@@ -26,7 +26,7 @@
 	};
 </script>
 
-<BasicLayout>
+<BasicLayout title="mix-blend-modeおためししすてむ">
 	<div class="root">
 		<h1>mix-blend-modeおためししすてむ</h1>
 		<h2>画像設定</h2>
