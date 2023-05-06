@@ -9,14 +9,14 @@
 <div
 	class="root"
 	style="
-	--text-blend-mode: {text.blendMode}; 
-	--text-top: {text.top}px; --text-left: {text.left}px; 
-	--text-red: {text.red}; --text-green: {text.green}; --text-blue: {text.blue}; --text-alpha: {text.alpha}; 
-	--text-z-index: {text.layer};
-	--mask-blend-mode: {mask.blendMode}; 
-	--mask-top: {mask.top}px; --mask-left: {mask.left}px; 
-	--mask-red: {mask.red}; --mask-green: {mask.green}; --mask-blue: {mask.blue}; --mask-alpha: {mask.alpha};
-	--mask-z-index: {mask.layer};"
+  --text-blend-mode: {text.blendMode}; 
+  --text-top: {text.top}px; --text-left: {text.left}px; 
+  --text-red: {text.red}; --text-green: {text.green}; --text-blue: {text.blue}; --text-alpha: {text.alpha}; 
+  --text-z-index: {text.layer};
+  --mask-blend-mode: {mask.blendMode}; 
+  --mask-top: {mask.top}px; --mask-left: {mask.left}px; 
+  --mask-red: {mask.red}; --mask-green: {mask.green}; --mask-blue: {mask.blue}; --mask-alpha: {mask.alpha};
+  --mask-z-index: {mask.layer};"
 >
 	<div class="imgWrapper">
 		<p class="text">Welcome</p>
